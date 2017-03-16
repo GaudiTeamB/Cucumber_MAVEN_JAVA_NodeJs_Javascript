@@ -17,15 +17,15 @@ Prerequisites:
 　
 3) the Gulp Server should be installed and configured. In case you need to install it, follow these instructions:
 　
-   a) Install webpack and gulp: npm install webpack gulp -g 
-      b) Download this repsitory from https://github.com/GaudiTeamB/gb-front-end-time-measurent.
-      c)) Run: npm install 
+   a)Create a folder called 'Evolve' in your desktop. Then from the cmd line, cd to that folder and install webpack and gulp, by executing the following command: npm install webpack gulp -g 
+      b) Download this repsitory from https://github.com/GaudiTeamB/gb-front-end-time-measurent and unzip it in the Evolve folder created in the previous step.
+      c)) Run: npm install
       d) Open a command line and run gulp: >gulp 
       e) Open a second command line and run gulp server >gulp server 
       f) You will be able to connect to http://localhost:8080 and see the site.
       g) Press CTRL C and when promted for Yes/No, enter "Yes"
 　
- 4) Unzip the Cucumber_NodesJS zip file in your Desktop
+ 4) Unzip the Cucumber_NodesJS zip file in the Evolve folder which was created in your desktop.
  5) from the DOS Command Prompt, cd to the unziped Cucumber_NodesJS folder and run the command "npm install". But before executing the npm install command, make sure the package.json file exists under the unziped folder. After executing the npm install, a folder called nodes_module
    should have been created in the current directory
  
