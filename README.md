@@ -11,9 +11,9 @@ Then you have to open the Java Eclipse IDE to run the Test. But before running t
 *************************  Cucumber with Javascript and NodesJS ********************************
 Prerequisites:
 　
-1) Git should be installed. If it's not, go to this website to download it, https://git-scm.com/download/win
+1) Git should be installed in your machine. If it's not, go to this website to download it, https://git-scm.com/download/win
 　
-2) nodes and npm sould be installed. In case you need to download nodes(In this case the "nodes_module" folder doesn´t exist), go to this website and then click on window installer, https://nodejs.org/en/download/current/
+2) nodes and npm sould also be installed. In case you need to download them(if the "nodes_module" folder doesn´t exist under the unziped folder, you probably don´t have nodes installed), go to this website and then click on window installer, https://nodejs.org/en/download/current/
 　
 3) the Gulp Server should be installed and configured. In case you need to install it, follow these instructions:
 　
